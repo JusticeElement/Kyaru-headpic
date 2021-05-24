@@ -6,11 +6,11 @@
 
 ## 扭 曲 深 渊
 
-![](img\niuqu-0.jpeg)
-![](img\niuqu-1.jpeg)
-![](img\niuqu-2.jpeg)
-![](img\niuqu-3.jpeg)
-![](img\niuqu-4.jpeg)
+![](img/niuqu-0.jpeg)
+![](img/niuqu-1.jpeg)
+![](img/niuqu-2.jpeg)
+![](img/niuqu-3.jpeg)
+![](img/niuqu-4.jpeg)
 
 ## 打 地 鼠
 ![](/img/dishu-1.jpeg)
